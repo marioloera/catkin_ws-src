@@ -1,0 +1,21 @@
+<package>
+  <name>ras_lab1_controllers</name>
+  <version>0.1.0</version>
+  <description>
+    Packages for lab1 controllers of the RAS 2014 course.
+  </description>
+  <license>BSD</license>
+
+  <url>http://wiki.ros.org/ras_lab1</url>
+
+  <author email="marioll@kth.se">Mario Loera</author>
+  <maintainer email="marioll@kth.se">Mario Loera</maintainer>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>std_msgs</run_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+</package>
